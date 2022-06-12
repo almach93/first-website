@@ -1,0 +1,97 @@
+body {
+  font-family: sans-serif;
+  color: #444;
+}
+
+h1,
+h2,
+h3 {
+  color: #0ba3bb;
+}
+
+h1 {
+  font-size: 28px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+li {
+  font-size: 20px;
+}
+
+.related-post-author {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/*
+footer p {
+  font-size: 14px;
+}
+*/
+
+#author {
+  font-style: italic;
+  font-size: 16px;
+}
+
+#copyright {
+  font-size: 14px;
+}
+
+.related-posts {
+  list-style: none;
+}
+
+.header {
+  background-color: #f7f7f7;
+}
+
+.aside-related-posts {
+  background-color: #f7f7f7;
+  border-top: 5px solid #0ba3bb;
+  border-bottom: 5px solid #0ba3bb;
+}
+
+li:first-child {
+  font-weight: bold;
+}
+li:last-child {
+  font-style: italic;
+}
+
+a:link,
+a:visited {
+  color: #0ba3bb;
+}
+
+a:hover {
+  color: orangered;
+  font-weight: bold;
+  text-decoration: underline red;
+}
+
+a:active {
+  background-color: black;
+  font-style: italic;
+}

@@ -1,0 +1,37 @@
+h1 {
+    font-size: 28px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+}
+h2 {
+    font-size: 40px;
+    font-family: sans-serif;
+
+}
+h3 {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+}
+a:link {
+ color: #0ba3bb;
+}
+a:hover {
+color: orangered;
+font-weight: bold;
+text-decoration: underline red;
+}
+a:visited {
+    color: #0ba3bb;
+}
+a:active{
+ background-color: black;
+ font-style: italic;
+}
